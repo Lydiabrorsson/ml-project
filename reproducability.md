@@ -29,7 +29,7 @@ pip install -r requirements.txt
 
 ## Running the Project
 
-1. Place the dataset file in the same directory as the notebook.
+1. Place the requirements.txt file in the same directory as the notebook.
 2. Open `ml_project.ipynb`.
 3. Run all cells from top to bottom.
 
